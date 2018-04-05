@@ -3,6 +3,9 @@ from django.conf.urls import url
 from . import views
 
 app_name = 'candidate'
+
+
+
 urlpatterns = [
     url(r'cultural/$', views.cultural, name='cultural'),
     url(r'vp/$', views.vp, name='vp'),
@@ -11,7 +14,5 @@ urlpatterns = [
     url(r'welfare/$', views.welfare, name='welfare'),
     url(r'hab/$', views.hab, name='hab'),
     url(r'sports/$', views.sports, name='sports'),
+
 ]
-
-
-

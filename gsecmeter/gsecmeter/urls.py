@@ -16,9 +16,19 @@ Including another URLconf
 from django.contrib import admin
 from django.conf.urls import url, include
 
+# two line below to import static
+from django.conf import settings
+from django.conf.urls.static import static
+
+
 # Next to line to handle static file URLS
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^gsec/', include('gsecWorkStatus.urls')),
 ]
+
+if settings.DEBUG:
+    urlpatterns += static(settings.STATIC_URL,
+                          document_root=settings.STATIC_ROOT)
+
