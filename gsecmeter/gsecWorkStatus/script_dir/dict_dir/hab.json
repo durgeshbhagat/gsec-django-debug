@@ -1,0 +1,147 @@
+{
+  "Ongoing-Long-term": {
+    "Un-subscription option from mess": {
+      "category": "Mess",
+      "description": "",
+      "current_status": "Proposed to 20th SAC. Summer+Winter pay and eat going on to evaluate.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Insecticide and pest control in hostels": {
+      "category": "Maintenance",
+      "description": "",
+      "current_status": "Passed in 18th HAB meeting. Tendering remains.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Medicine supply for First Aid Box": {
+      "category": "Maintenance",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "\"Will be pushed by MUG with two new student representatives.\"",
+      "verifier_comment": ""
+    },
+    "Mosquito nets": {
+      "category": "General",
+      "description": "Mosquito nets on all ground floor rooms, toilets, mess and common areas will be provided.",
+      "current_status": "Proposed and partially accepted in 20th SAC meeting.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Veg canteen": {
+      "category": "",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Cycles Stand": {
+      "category": "General",
+      "description": "Cycle stands for Lohit ,Brahmputra, Kapili ,Subansiri",
+      "current_status": "Brahmaputra and Lohit - Proposed and passed. Kapili - No site. Subansiri - Not initiated.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Pantry rooms": {
+      "category": "Follow up",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "\"10 out of 12 done. Tender done for remaininf two.\"",
+      "verifier_comment": ""
+    }
+  },
+  "Broken": {
+    "Hostel Mess Menu Changes": {
+      "category": "Mess",
+      "description": "A student run mess option to be evaluated on experimental basis.",
+      "current_status": "",
+      "representative_comment": "\"Lacked participation from student volunteers. Discarded by student member of tender writing committee.\"",
+      "verifier_comment": ""
+    },
+    "Veg mess": {
+      "category": "General",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Caretaker office": {
+      "category": "For Married Scholar Hostel",
+      "description": "",
+      "current_status": "No space",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Light for sports ground in Hostels": {
+      "category": "Follow up",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "\"Being pursued by individual hostels like Barak\"",
+      "verifier_comment": ""
+    },
+    "AC Common rooms": {
+      "category": "Follow up",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "\"HMC's can execute with their welfare fund.\"",
+      "verifier_comment": ""
+    }
+  },
+  "Not-Started": {
+    "Painting of all Hostels": {
+      "category": "Maintenance",
+      "description": "On trial basis, one of the hostel messes will be supervised by MMC and HMC; there will a catering assistant post who will manage the mess and documentation work. HAB will issue tender for commodities and raw materials. HMC and MMC can decide the menu based on the choices of boarders, there will be no restriction of basic menu.",
+      "current_status": "",
+      "representative_comment": "\"Can be done on room to room basis through complaint portal.\"",
+      "verifier_comment": ""
+    }
+  },
+  "Completed": {
+    "Online complaint booking portal": {
+      "category": "Maintenance",
+      "description": "Individual login credentials for hostel general secretary.",
+      "current_status": "Passed in 19th HAB. Gen Sec can collect login credentials from hostel office.",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "HMC Fund": {
+      "category": "For Married Scholar Hostel",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    },
+    "Full time caretaker": {
+      "category": "For Married Scholar Hostel",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    }
+  },
+  "Ongoing-Short-term": {
+    "Cleaning of room in 15 days": {
+      "category": "Follow up",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "\"Will be innitiated in first week of April\"",
+      "verifier_comment": ""
+    },
+    "Live counters": {
+      "category": "Follow up",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "\"10 out of 12 done.\"",
+      "verifier_comment": ""
+    }
+  },
+  "Not-Evaluated-subjective": {
+    "Gardening of Hostel Area by Horticulture": {
+      "category": "Follow up",
+      "description": "",
+      "current_status": "",
+      "representative_comment": "",
+      "verifier_comment": ""
+    }
+  }
+}
